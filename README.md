@@ -1,7 +1,11 @@
 # FastNoise2.jl
 
-A Julia wrapper for []() through the C API.
+A Julia wrapper for [Auburn/FastNoise2](https://github.com/Auburn/FastNoise2) through the C API.
 
+
+## Interactive Example
+
+[![demo.gif](https://user-images.githubusercontent.com/5612003/183391912-64017721-227b-4448-948d-0022ec2e76d9.gif)](./notebooks/notebook.jl)
 
 ## Usage
 
@@ -61,5 +65,3 @@ julia> x
  -0.604788  0.202821   0.0345254   0.968949
  -0.554117  0.12885    0.70932     0.848869
 ```
-
-## Interactive Example

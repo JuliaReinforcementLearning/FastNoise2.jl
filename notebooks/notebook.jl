@@ -56,7 +56,7 @@ frequency, x, y
 n = Node(noise_name;seed=parse(Cint, seed))
 
 # ╔═╡ d448e7d9-266c-4012-91f7-ffed233f356e
-heatmap(n((64,64), x,y;frequency=frequency))
+heatmap(n((32,32), x,y;frequency=frequency))
 
 # ╔═╡ Cell order:
 # ╠═856b2884-16f8-11ed-3fab-6122cef82810
@@ -66,7 +66,7 @@ heatmap(n((64,64), x,y;frequency=frequency))
 # ╠═b83e8bf4-ee5a-4351-90c8-cf1277ffe081
 # ╠═82466c59-2559-4968-bccf-c7eac129081a
 # ╠═42131b88-5478-43bb-9569-936101a260ae
-# ╠═3ae9b65c-8938-4d1f-978c-0c504ff02b30
+# ╟─3ae9b65c-8938-4d1f-978c-0c504ff02b30
 # ╠═99cd580e-9304-439a-affe-52d3bdd96d5a
 # ╠═86c171b0-a94b-4e24-97f8-bb0f3ce53ac4
 # ╠═d448e7d9-266c-4012-91f7-ffed233f356e
